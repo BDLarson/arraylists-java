@@ -8,7 +8,7 @@ import uhLogger.Level;
 
 
 /**
- * @author Mark Nelson
+ * @author Blake Larson
  *
  */
 final class Assignment03 {
